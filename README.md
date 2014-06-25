@@ -1,14 +1,14 @@
 # New York Cheesecake
 
 #### Zutaten Keksboden
-* 450g Kekse, z.B. Walkers Pure Butter Shortbread
+* 450g Kekse *z.B. Walkers Pure Butter Shortbread*
 * 1 Prise Salz
 * 1 Päckchen Vanillezucker
 * 80g geschmolzene Butter
 * 2 TL Zucker
 
 #### Zutaten Käsemasse
-* 8 Philadelphia
+* 8 Philadelphia Frischkäse
 * 350g Zucker
 * 60g Mehl
 * 1 El Speisestärke
@@ -24,6 +24,7 @@
 * 0,5 TL Zitronensaft
 * 1 Prise Salz
 * 40g Zucker
+![Zutaten](img/zutaten.jpg)
 
 ### Zubereitung
 
