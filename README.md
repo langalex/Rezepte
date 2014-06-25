@@ -24,7 +24,9 @@
 * 0,5 TL Zitronensaft
 * 1 Prise Salz
 * 40g Zucker
+
 ![Zutaten](img/zutaten.jpg)
+
 
 ### Zubereitung
 
