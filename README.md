@@ -28,4 +28,3 @@
 ### Zubereitung
 
 #### Keksboden
-![Zutaten](img/zutaten.jpg)
