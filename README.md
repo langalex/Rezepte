@@ -5,7 +5,7 @@ Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.
 #### Zutaten Keksboden
 
 * 450g Kekse *z.B. Walkers Pure Butter Shortbread*
-* 150g Karamellgebäck <optional>
+* 150g Karamellgebäck *optional*
 * 1 Prise Salz
 * 1 Päckchen Vanillezucker
 * 80g geschmolzene Butter
@@ -55,6 +55,6 @@ Salz, Vanillezucker und Zucker mit den zerbröselten Keksen vermischen und die g
 Die Keksmasse in der vorbereiteten Springform verteilen und andrücken.
 ![Keksboden](img/keksboden.jpg)
 
-10 Minuten Backen. Auskühlen lassen und ca. eine Stunde in den Kühlschrank stellen.
+10 Minuten Backen. Auskühlen lassen und für ca. eine Stunde in den Kühlschrank stellen.
 
 #### Käsemasse
