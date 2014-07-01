@@ -53,7 +53,7 @@ Backofen vorheizen auf Ober- Unterhitze 180 Grad.
 Backform fetten.  
 Boden der Backform mit Backpapier auslegen.  
 ![Form1](img/form1.jpg)
-Backform bestmöglich mit Silberfolie abdichten. 
+Backform bestmöglich mit Silberfolie abdichten.
 ![Form2](img/form2.jpg)
 
 Butter schmelzen. Kekse zerbröseln. 
@@ -61,7 +61,7 @@ Butter schmelzen. Kekse zerbröseln.
 ![Kekse2](img/kekse2.jpg)
 
 Salz, Vanillezucker und Zucker mit den zerbröselten Keksen vermischen und die geschmolzene Butter unterrühren.  
-Die Keksmasse in der vorbereiteten Springform verteilen und andrücken. 
+Die Keksmasse in der vorbereiteten Springform verteilen und andrücken.
 ![Keksboden](img/keksboden.jpg)
 
 10 Minuten Backen. Auskühlen lassen und für mindestens eine Stunde in den Kühlschrank stellen.  
@@ -88,8 +88,8 @@ Kuchen aus dem Ofen nehmen und auskühlen lassen.
 
 
 ### Topping
-Mascarpone, Saure Sahne, Zitronensaft, Salz und Zucker miteinander vermischen, auf den ausgekühlten Kuchen geben und glatt streichen. 
+Mascarpone, Saure Sahne, Zitronensaft, Salz und Zucker miteinander vermischen, auf den ausgekühlten Kuchen geben und glatt streichen.
 ![Kuchen Fertig](img/kuchen_fertig.jpg) 
 
-Kuchen am besten über Nacht in den Kühlschrank stellen. 
+Kuchen am besten über Nacht in den Kühlschrank stellen.
 ![Kuchen Halb](img/kuchen_halb.jpg)
