@@ -1,6 +1,14 @@
 # New York Cheesecake
 
-Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.
+Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.  
+
+#####Folgendes Zubehör wird benötigt:
+
+* Aluminiumfolie
+* Backpapier
+* 26er Springbackform
+* Ofenfester Behälter, in den die Springbackform passt
+* Handmixer, Schneebesen
 
 #### Zutaten Keksboden
 
@@ -44,9 +52,6 @@ Backform fetten
 Boden der Backform mit Backpapier auslegen  
 ![Form1](img/form1.jpg)
 
-Backform bestmöglich mit Silberfolie abdichten.
-![Form2](img/form2.jpg)
-
 Butter schmelzen. Kekse zerbröseln. 
 ![Kekse1](img/kekse1.jpg)
 ![Kekse2](img/kekse2.jpg)
@@ -55,6 +60,8 @@ Salz, Vanillezucker und Zucker mit den zerbröselten Keksen vermischen und die g
 Die Keksmasse in der vorbereiteten Springform verteilen und andrücken.
 ![Keksboden](img/keksboden.jpg)
 
-10 Minuten Backen. Auskühlen lassen und für ca. eine Stunde in den Kühlschrank stellen.
+10 Minuten Backen. Auskühlen lassen und für mindestens eine Stunde in den Kühlschrank stellen.  
+Wenn der Keksboden ausgekühlt ist Backform bestmöglich mit Silberfolie abdichten.
+![Form2](img/form2.jpg)
 
 #### Käsemasse
