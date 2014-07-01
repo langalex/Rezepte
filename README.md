@@ -52,9 +52,9 @@ Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.
 Backofen vorheizen auf Ober- Unterhitze 180 Grad.  
 Backform fetten.  
 Boden der Backform mit Backpapier auslegen.  
-![Form1](img/form1.jpg)
+![Form1](img/form1.jpg)  
 Backform bestmöglich mit Silberfolie abdichten.  
-![Form2](img/form2.jpg)
+![Form2](img/form2.jpg)  
 
 Butter schmelzen. Kekse zerbröseln. 
 ![Kekse1](img/kekse1.jpg)
@@ -62,9 +62,9 @@ Butter schmelzen. Kekse zerbröseln.
 
 Salz, Vanillezucker und Zucker mit den zerbröselten Keksen vermischen und die geschmolzene Butter unterrühren.  
 Die Keksmasse in der vorbereiteten Springform verteilen und andrücken.
-![Keksboden](img/keksboden.jpg)
+![Keksboden](img/keksboden.jpg)  
 
-10 Minuten Backen. Auskühlen lassen und für mindestens eine Stunde in den Kühlschrank stellen.  
+10 Minuten Backen. Auskühlen lassen und für mindestens eine Stunde in den Kühlschrank stellen.
 
 ### Käsemasse
 
