@@ -2,7 +2,7 @@
 
 ## Zutaten
 
-Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.  
+Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.
 
 #####Folgendes Zubehör wird benötigt:
 
@@ -39,7 +39,7 @@ Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.
 * 200g Saure Sahne
 * 0,5 TL Zitronensaft
 * 1 Prise Salz
-* 40g Zucker  
+* 40g Zucker
 
 ![Zutaten](img/zutaten.jpg)
 
@@ -49,20 +49,20 @@ Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.
 ### Keksboden
 ######Zuerst die 26er Springform vorbereiten:
 
-Backofen vorheizen auf Ober- Unterhitze 180 Grad.  
-Backform fetten.  
-Boden der Backform mit Backpapier auslegen.  
-![Form1](img/form1.jpg)  
-Backform bestmöglich mit Silberfolie abdichten.  
-![Form2](img/form2.jpg)  
+Backofen vorheizen auf Ober- Unterhitze 180 Grad.
+Backform fetten.
+Boden der Backform mit Backpapier auslegen.
+![Form1](img/form1.jpg)
+Backform bestmöglich mit Silberfolie abdichten.
+![Form2](img/form2.jpg)
 
-Butter schmelzen. Kekse zerbröseln. 
+Butter schmelzen. Kekse zerbröseln.
 ![Kekse1](img/kekse1.jpg)
 ![Kekse2](img/kekse2.jpg)
 
-Salz, Vanillezucker und Zucker mit den zerbröselten Keksen vermischen und die geschmolzene Butter unterrühren.  
+Salz, Vanillezucker und Zucker mit den zerbröselten Keksen vermischen und die geschmolzene Butter unterrühren.
 Die Keksmasse in der vorbereiteten Springform verteilen und andrücken.
-![Keksboden](img/keksboden.jpg)  
+![Keksboden](img/keksboden.jpg)
 
 10 Minuten Backen. Auskühlen lassen und für mindestens eine Stunde in den Kühlschrank stellen.
 
@@ -70,26 +70,26 @@ Die Keksmasse in der vorbereiteten Springform verteilen und andrücken.
 
 Backofen vorheizen auf Ober- Unterhitze 180 Grad.
 
-Philadelphia Frischkäse mit dem Handmixer cremig rühren.  
-Zucker, Mehl, Speisestärke und Vanillezucker zuerst vermischen und dann mit dem Frischkäse mixen. 
-Nicht zu lange mixen, nur bis die Zutaten vermischt sind!.  
-Mark der Vanilleschote auskratzen und zu der Käsemasse geben. 
+Philadelphia Frischkäse mit dem Handmixer cremig rühren.
+Zucker, Mehl, Speisestärke und Vanillezucker zuerst vermischen und dann mit dem Frischkäse mixen.
+Nicht zu lange mixen, nur bis die Zutaten vermischt sind!.
+Mark der Vanilleschote auskratzen und zu der Käsemasse geben.
 Eier, Saure Sahne und Zitronensaft dazu geben.
-Alles miteinander verrühren, nur so lange, bis alles vermischt ist. 
+Alles miteinander verrühren, nur so lange, bis alles vermischt ist.
 Käsemasse auf den vorbereiteten Keksboden geben und glatt streichen.
 Mit Aluminiumfolie abdecken.
 Springform in einen ofenfesten Behälter stellen und den ca. 1cm hoch mit Wasser befüllen.
-In den vorgeheizten Ofen im unteren Drittel stellen und **40 Minuten Backen**. 
+In den vorgeheizten Ofen im unteren Drittel stellen und **40 Minuten Backen**.
 ![Kuchen Vorher](img/kuchen_vorher.jpg)
 
-Nach 40 Minuten Backzeit die Aluminiumfolie runter nehmen, Ofen **auf 160 Grad** runter regulieren und **nochmals 20 Minuten** Backen. 
+Nach 40 Minuten Backzeit die Aluminiumfolie runter nehmen, Ofen **auf 160 Grad** runter regulieren und **nochmals 20 Minuten** Backen.
 
-Kuchen aus dem Ofen nehmen und auskühlen lassen. 
+Kuchen aus dem Ofen nehmen und auskühlen lassen.
 
 
 ### Topping
 Mascarpone, Saure Sahne, Zitronensaft, Salz und Zucker miteinander vermischen, auf den ausgekühlten Kuchen geben und glatt streichen.
-![Kuchen Fertig](img/kuchen_fertig.jpg) 
+![Kuchen Fertig](img/kuchen_fertig.jpg)
 
 Kuchen am besten über Nacht in den Kühlschrank stellen.
 ![Kuchen Halb](img/kuchen_halb.jpg)
