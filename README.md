@@ -82,6 +82,7 @@ Käsemasse auf den vorbereiteten Keksboden geben und glatt streichen.
 Mit Aluminiumfolie abdecken.
 Springform in einen ofenfesten Behälter stellen und den ca. 1cm hoch mit Wasser befüllen.
 In den vorgeheizten Ofen im unteren Drittel stellen und **40 Minuten Backen**.
+
 ![Kuchen Vorher](img/kuchen_vorher.jpg)
 
 Nach 40 Minuten Backzeit die Aluminiumfolie runter nehmen, Ofen **auf 160 Grad** runter regulieren und **nochmals 20 Minuten** Backen.
@@ -91,7 +92,9 @@ Kuchen aus dem Ofen nehmen und auskühlen lassen.
 
 ### Topping
 Mascarpone, Saure Sahne, Zitronensaft, Salz und Zucker miteinander vermischen, auf den ausgekühlten Kuchen geben und glatt streichen.
+
 ![Kuchen Fertig](img/kuchen_fertig.jpg)
 
 Kuchen am besten über Nacht in den Kühlschrank stellen.
+
 ![Kuchen Halb](img/kuchen_halb.jpg)
