@@ -24,7 +24,7 @@ Es ist wichtig, dass alle Zutaten Zimmertemperatur haben.
 #### Zutaten Käsemasse
 
 * 8 Philadelphia Frischkäse
-* 350g Zucker
+* 250g Zucker
 * 60g Mehl
 * 1 El Speisestärke
 * 1 Päckchen Vanillezucker
